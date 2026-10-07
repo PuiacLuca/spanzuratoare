@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791370411 source:c:\users\elev\desktop\10c++\doidi78\main.cpp
+	<iostream>
+	<cstring>
+	<random>
+
